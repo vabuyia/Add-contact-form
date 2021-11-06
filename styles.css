@@ -8,6 +8,7 @@ a {
   border: 0;
   text-decoration: none;
   list-style: none;
+  scrollbar-width: none;
 }
 
 body {
@@ -68,6 +69,7 @@ header {
   background: white;
   position: fixed;
   z-index: 10;
+  margin: 0 10px;
 }
 
 .logo {
@@ -297,6 +299,7 @@ header {
 
 .arrow-down {
   width: 20px;
+  margin-right: 60px;
 }
 
 .user-tool > div {
@@ -388,20 +391,26 @@ hr {
 }
 
 .form-name {
-  width: 330px;
+  width: 250px;
   height: 30px;
   border-radius: 5px;
+  border: 1px solid white;
+  margin-left: 50px;
 }
 
 #form-email {
-  width: 330px;
+  width: 250px;
   height: 30px;
   border-radius: 5px;
+  border: 1px solid white;
+  margin-left: 50px;
 }
 
 #form-textarea {
-  width: 330px;
+  width: 250px;
   border-radius: 5px;
+  border: 1px solid white;
+  margin-left: 50px;
 }
 
 #naabout-self_form,
@@ -431,6 +440,7 @@ hr {
   color: #6070ff;
   background-color: #fff;
   box-shadow: 0 8px 16px rgba(64, 83, 252, 0.24);
+  margin-left: 50px;
 }
 
 #get-submit:hover {
@@ -599,29 +609,31 @@ hr {
     display: block;
     width: 55%;
     height: auto;
-    margin: 10px 0 10px 10px;
   }
 
   .form-name {
-    width: 500px;
+    width: 400px;
     height: 30px;
     border-radius: 5px;
+    border: 1px solid white;
   }
 
   #form-email {
-    width: 500px;
+    width: 400px;
     height: 30px;
     border-radius: 5px;
+    border: 1px solid white;
   }
 
   #form-textarea {
-    width: 500px;
+    width: 400px;
     border-radius: 5px;
+    border: 1px solid white;
   }
 
   #get-submit {
     display: flex;
     justify-content: center;
-    margin-left: 170px;
+    margin-left: 150px;
   }
 }
