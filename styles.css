@@ -115,6 +115,7 @@ header {
   display: flex;
   list-style: none;
   cursor: pointer;
+  align-items: center;
 }
 
 .apps i {
@@ -126,6 +127,14 @@ header {
 
 .apps > li > a > i {
   cursor: pointer;
+}
+
+.box1,
+.box2,
+.box3,
+.box4,
+.box5 {
+  padding-right: 20px;
 }
 
 .button-mobile {
@@ -286,6 +295,10 @@ header {
   justify-content: space-between;
 }
 
+.arrow-down {
+  width: 20px;
+}
+
 .user-tool > div {
   display: flex;
   flex-wrap: wrap;
@@ -372,6 +385,23 @@ hr {
 .li-form {
   margin: 10px 24px;
   text-align: left;
+}
+
+.form-name {
+  width: 330px;
+  height: 30px;
+  border-radius: 5px;
+}
+
+#form-email {
+  width: 330px;
+  height: 30px;
+  border-radius: 5px;
+}
+
+#form-textarea {
+  width: 330px;
+  border-radius: 5px;
 }
 
 #naabout-self_form,
@@ -570,5 +600,28 @@ hr {
     width: 55%;
     height: auto;
     margin: 10px 0 10px 10px;
+  }
+
+  .form-name {
+    width: 500px;
+    height: 30px;
+    border-radius: 5px;
+  }
+
+  #form-email {
+    width: 500px;
+    height: 30px;
+    border-radius: 5px;
+  }
+
+  #form-textarea {
+    width: 500px;
+    border-radius: 5px;
+  }
+
+  #get-submit {
+    display: flex;
+    justify-content: center;
+    margin-left: 170px;
   }
 }
