@@ -1,11 +1,13 @@
-Portfolio: desktop version
+Portfolio: application deploy
 -For the fourth projet in your portfolio website, you will: a). Use media queries to make sure that your website displays correctly on desktop screens.
 
-Project Name
-Portfolio: mobile version
+Click [here](https://vabuyia.github.io/vabuya.github.io/) to go to my application deployment.  
 
 Project Requirements
--Use media queries in your CSS file to make your desktop version look like the template you selected. -In order to lay out the elements on the page you should use Grid and Flexbox.
+--Deploy your website using GitHub Pages.
+--Check the online version of your portfolio and make sure that the page works properly.
+--Update the README of your repository to include a link to the online version.
+
 
 Built With
 HTML
