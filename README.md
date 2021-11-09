@@ -1,13 +1,13 @@
-Portfolio: application deploy
--For the fourth projet in your portfolio website, you will: a). Use media queries to make sure that your website displays correctly on desktop screens.
+Portfolio: accessibility
+-For the sixth milestone of your portfolio website, you will:
+a). evaluate your website against accessibility best practices and implement any necessary changes to ensure that your website is accessible.
 
-Click [here](https://vabuyia.github.io/vabuya.github.io/) to go to my application deployment.  
+Click [here](https://vabuyia.github.io/vabuya.github.io/) to go to my application deployment.
 
 Project Requirements
---Deploy your website using GitHub Pages.
---Check the online version of your portfolio and make sure that the page works properly.
---Update the README of your repository to include a link to the online version.
-
+--Check all of the items listed in the article Easy Checks – A First Review of Web Accessibility.
+--Determine if your Portfolio needs any changes.
+--Prepare a report listing all points that you have checked, and the result of your evaluation.
 
 Built With
 HTML
