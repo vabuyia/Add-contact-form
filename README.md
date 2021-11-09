@@ -1,80 +1,45 @@
-# Portfolio: add a contact form and finish the mobile version
+Portfolio: accessibility
+-For the sixth milestone of your portfolio website, you will:
+a). evaluate your website against accessibility best practices and implement any necessary changes to ensure that your website is accessible.
 
--For the third milestone of your portfolio website, you will:
-a). Add a contact form to your portfolio
-b). Make sure that you guide your users' experience in a way that helps them fill in the form without frustration.
+Click [here](https://vabuyia.github.io/vabuya.github.io/) to go to my application deployment.
 
-## Project Name
+Project Requirements
+--Check all of the items listed in the article Easy Checks – A First Review of Web Accessibility.
+--Determine if your Portfolio needs any changes.
+--Prepare a report listing all points that you have checked, and the result of your evaluation.
 
-Portfolio: mobile version
+Built With
+HTML
+CSS
+Getting Started
+To get a local copy up and running follow these simple example steps.
 
-## Project Requirements
-
--Build a contact form section.
-
-- Make sure that:
-  -Name field accepts up to 30 chars.
-  -Email field accepts only emails.
-  -Message field accepts up to 500 chars.
-  -All fields have placeholder text.
-  -All fields have the correct type.
-  -A user cannot submit the form if one or more of the fields is empty.
-
--Collect data by using the Formspree service.
--In order to lay out the elements on the page you should use Flexbox.
--You don't need to implement any functionality that requires JavaScript.
--You must stick to the design as much as possible (e.g., font, colors, images, tests, margins) using the templates in Figma.
--Implement the button interactions (enable, hover, etc.).
-
-## Built With
-
-- HTML
-- CSS
-
-## Getting Started
-
-**To get a local copy up and running follow these simple example steps.**
-
-### Prerequisites
-
+Prerequisites
 -git installed
 
-### Setup
-
+Setup
 -click the code buttion then copy the URL of the repository git@github.com:vabuyia/Portfolio.git
 
-### Download:
+Download:
+-open a git-bash -run git clone [repo URL]
 
--open a git-bash
--run git clone [repo URL]
+Usage
+-In the folder open the .html file -done!
 
-### Usage
+Authors
+bust_in_silhouette Vincent Abuya
 
--In the folder open the .html file
--done!
-
-## Authors
-
-👤 Vincent Abuya
-
-- GitHub: [@githubhandle](https://github.com/vabuyia)
-  -Twitter: @abuyiag
-  -Linkedln: linkedin.com/in/vincent-abuya-a1940555
-
-## 🤝 Contributing
-
+GitHub: @githubhandle -Twitter: @abuyiag -Linkedln: linkedin.com/in/vincent-abuya-a1940555
+handshake Contributing
 Contributions, issues, and feature requests are welcome!
 
-## Show your support
+Show your support
+Give a star if you like this project!
 
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+Acknowledgments
+Hat tip to anyone whose code was used
+Inspiration
+etc
+memo License
+This project is MIT licensed.
