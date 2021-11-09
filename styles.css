@@ -498,6 +498,23 @@ hr {
 .logo:hover .profile-photo {
   opacity: 1;
 }
+span.astrict {
+  color: red;
+}
+#label-name {
+  margin-left: -160px;
+  margin-bottom: -10px;
+}
+
+#label-email {
+  margin-left: -100px;
+  margin-bottom: -10px;
+}
+
+#label-message {
+  margin-left: -150px;
+  margin-bottom: -10px;
+}
 
 @media (min-width: 992px) {
   .home-page {
@@ -640,6 +657,24 @@ hr {
 
   #title-paragraph {
     margin-right: 450px;
+    font-size: 20px;
+  }
+
+  #label-name {
+    margin-left: 5px;
+    margin-bottom: -10px;
+    font-size: 20px;
+  }
+
+  #label-email {
+    margin-left: 40px;
+    margin-bottom: -10px;
+    font-size: 20px;
+  }
+
+  #label-message {
+    margin-left: 20px;
+    margin-bottom: -10px;
     font-size: 20px;
   }
 }

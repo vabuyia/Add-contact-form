@@ -233,30 +233,33 @@
           method="post"
         >
           <ul class="ul-form">
+            <p id="label-name" >Name: <span class="astrict ">**</span></p>
             <li class="li-form">
                 <input class= "form-name"
                 type="text"
-                placeholder="Name"
+                placeholder="Full name is required."
                 name="name"
                 id="name_form"
                 maxlength="30"
                 required
               />
             </li>
+            <p id="label-email">Email Address:<span class="astrict ">**</span></p>
             <li class="li-form">
               <input id="form-email"
                 type="email"
-                placeholder="Email Address"
+                placeholder="Email address is required!."
                 name="email"
                 id="email_form"
                 pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" 
                 required
               />
             </li>
+            <p id="label-message">Message:</p>
             <li class="li-form">
               <textarea id= "form-textarea"
                 name="message"
-                placeholder="Write your message here"
+                placeholder="Please enter no more than 500 words"
                 id="message"
                 cols="30"
                 rows="10"

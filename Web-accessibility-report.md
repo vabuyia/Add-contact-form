@@ -41,3 +41,7 @@
 
 -No issues found, elements such as header, nav tag, section tag and footer tag have been included in the website structure.
 -semantic elements also lead to more consistent code.
+
+## Form
+
+-labes have have added to the forms, and fields that required/mandatory inputs have been indicated.
