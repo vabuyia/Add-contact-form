@@ -44,4 +44,4 @@
 
 ## Form
 
--labes have have added to the forms, and fields that required/mandatory inputs have been indicated.
+-labes have have added to the forms, and fields that required/mandatory inputs have been indicated, and asterisks\* included in the field label.
